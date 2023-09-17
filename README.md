@@ -1,3 +1,2 @@
 # uchicago-cs-git-tutorial2
-# Daniel Brin
-danielbrin
+Daniel Brin danielbrin
